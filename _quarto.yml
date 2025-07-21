@@ -1,15 +1,14 @@
 project: 
-  type: website
+  type: book
   render:
     - "index.qmd"
-    - "!GitHub-Guide.qmd"
     - "!README.md"
 
 website: 
   page-navigation: true
   title: "GitHub Guide" 
-  site-url: "https://nmfs-opensci.github.io/GitHub-Guide" 
-  repo-url: "https://github.com/nmfs-opensci/GitHub-Guide"
+  site-url: "https://nmfs-opensci.github.io/cloud-data-guide" 
+  repo-url: "https://github.com/nmfs-opensci/cloud-data-guide"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -28,10 +27,10 @@ website:
         href: https://nmfs-opensci.github.io
         text: "NMFS Open Science"
       - icon: github
-        href: https://github.com/nmfs-opensci/GitHub-Guide
-        text: "GitHub repo for GitHub Guide"
+        href: https://github.com/nmfs-opensci/cloud-data-guide
+        text: "GitHub repo"
       - icon: filetype-pdf
-        href: https://nmfs-opensci.github.io/GitHub-Guide/index.pdf
+        href: https://nmfs-opensci.github.io/cloud-data-guide/index.pdf
         text: "PDF of the Guide"
 
     style: "docked"
