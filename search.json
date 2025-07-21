@@ -14,7 +14,7 @@
     "href": "content/ERDDAP.html",
     "title": "ERDDAP",
     "section": "",
-    "text": "TBD",
+    "text": "ERDDAP is a data server that gives you a simple, consistent way to download subsets of scientific datasets in common file formats and make graphs and maps. NOAA has a number of different ERDDAP servers.\n\nNCEI* CoastWatch\nList of ERDDAP servers\nSearch 63 ERDDAP servers\n\nThis tutorial reviews how to get data and how to add data.",
     "crumbs": [
       "ERDDAP"
     ]
