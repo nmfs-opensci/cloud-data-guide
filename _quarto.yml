@@ -1,5 +1,5 @@
 project: 
-  type: book
+  type: website
   render:
     - "index.qmd"
     - "!README.md"
@@ -34,7 +34,22 @@ website:
         text: "PDF of the Guide"
 
     style: "docked"
+    search: true
     collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: content/map.qmd
+        text: Map
+      - href: content/why-cloud.qmd
+        text: Why cloud?
+      - href: content/obj-storage.qmd
+        text: Object storage
+      - href: content/NODD.Rmd
+        text: NODD
+      - href: content/acknowledgements.qmd
+        text: Acknowledgements
+
 
 format:
   html:
