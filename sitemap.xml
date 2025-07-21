@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://nmfs-opensci.github.io/cloud-data-guide/content/NODD.html</loc>
+    <lastmod>2025-07-21T22:36:40.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/cloud-data-guide/content/why-cloud.html</loc>
+    <lastmod>2025-07-21T22:36:40.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/cloud-data-guide/content/map.html</loc>
+    <lastmod>2025-07-21T22:36:40.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/cloud-data-guide/Licence.html</loc>
+    <lastmod>2025-07-21T22:36:40.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/cloud-data-guide/content/acknowledgements.html</loc>
+    <lastmod>2025-07-21T22:36:40.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/cloud-data-guide/content/obj-storage.html</loc>
+    <lastmod>2025-07-21T22:36:40.680Z</lastmod>
+  </url>
 </urlset>
