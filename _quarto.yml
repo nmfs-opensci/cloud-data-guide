@@ -45,7 +45,7 @@ website:
         text: Why cloud?
       - href: content/obj-storage.qmd
         text: Object storage
-      - href: content/NODD.Rmd
+      - href: content/NODD.qmd
         text: NODD
       - href: content/acknowledgements.qmd
         text: Acknowledgements
