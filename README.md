@@ -1,16 +1,8 @@
-[![github](https://img.shields.io/github/v/release/nmfs-opensci/GitHub-Guide?color=brightgreen&label=GitHub)](https://github.com/nmfs-opensci/GitHub-Guide/releases/latest)
+[![github](https://img.shields.io/github/v/release/nmfs-opensci/cloud-data-guide?color=brightgreen&label=GitHub)](https://github.com/nmfs-opensci/cloud-data-guide/releases/latest)
 
-# NMFS Open Science GitHub Guide
+# NMFS Open Science Cloud Data Guide
 
-Respository for the GitHub Guide developed by NMFS Open Science.
-
-[Link to pdf of latest guide](https://nmfs-opensci.github.io/GitHub-Guide/index.pdf) --- [Link to html of latest guide](https://nmfs-opensci.github.io/GitHub-Guide/index.html)
-
-## To update or contribute
-
-Fork the repo and then Edit `GitHub-Guide.qmd`. Put in a pull request.
-
-Whoever accepts the pull request should make sure to change the version number and create a new version.
+A guide tailored for NMFS scientists navigating cloud data access and migration (moving data to the cloud).
 
 ## To update the html or pdf version
 
